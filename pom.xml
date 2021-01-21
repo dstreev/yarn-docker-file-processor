@@ -15,7 +15,7 @@
     <properties>
         <hadoop.version>2.7.3.2.6.0.3-8</hadoop.version>
         <apache.commons.io.version>2.5</apache.commons.io.version>
-        <jackson.json.version>2.2.3</jackson.json.version>
+        <jackson.json.version>2.12.1</jackson.json.version>
         <apache.commons.lang3.version>3.5</apache.commons.lang3.version>
         <junit.version>4.12</junit.version>
     </properties>
